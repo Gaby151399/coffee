@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  font-family: sans-serif;
 }
 .App {
   background-color: rgb(43, 19, 3);
