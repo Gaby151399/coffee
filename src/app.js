@@ -7,6 +7,7 @@ import Body from "./components/body/Body";
 import Footer from "./components/Footer/Footer";
 
 function App() {
+  document.title = "Coffee";
   return (
     <div className="App">
       <div className="container-xxl">
