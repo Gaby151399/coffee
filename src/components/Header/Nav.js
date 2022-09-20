@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 export default function Nav() {
-  const [navibtn, setNavibtn] = useState(true);
+  const [navibtn, setNavibtn] = useState(false);
   const [navleft, setNavleft] = useState(true);
   const [navright, setNavright] = useState(true);
 

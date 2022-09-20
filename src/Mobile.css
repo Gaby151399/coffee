@@ -143,3 +143,8 @@
     height: 200px;
   }
 }
+@media screen and (max-width: 800px) and (min-width: 500px) {
+  .about #about-para {
+    padding: 10px;
+  }
+}

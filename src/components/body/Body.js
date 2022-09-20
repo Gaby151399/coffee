@@ -28,11 +28,11 @@ export default function Body() {
         </div>
       </div>
       <div className="about" id="about">
-        <div className="row" id="row-about">
+        <div className="row m-0" id="row-about">
           <div className="col-6">
             <img src="13.png" alt=""></img>
           </div>
-          <div className="col-6" id="about-para">
+          <div className="col-6 p-2" id="about-para">
             <h2>ABOUT US</h2>
             <p className="small">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab
